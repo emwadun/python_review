@@ -24,6 +24,6 @@ print(len(phrase))
 print(phrase[14])
 
 
-#print(phrase.index("W"))
+print(phrase.index("W"))
 
 print(phrase.replace("Giraffe", "Lion"))
