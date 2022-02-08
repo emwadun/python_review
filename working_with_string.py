@@ -1,7 +1,8 @@
 phrase = "Giraffe Academy"
 print(phrase)
 
-print(phrase+ "is cool")
+#Below is best for me
+print(f"Welcome to {phrase}")
 
 print ("Giraffe Academy")
 
@@ -24,6 +25,5 @@ print(len(phrase))
 print(phrase[14])
 
 
-print(phrase.index("W"))
 
 print(phrase.replace("Giraffe", "Lion"))
