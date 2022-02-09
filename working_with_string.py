@@ -1,8 +1,11 @@
 phrase = "Giraffe Academy"
+day = "Monday"
 print(phrase)
 
-#Below is best for me
-print(f"Welcome to {phrase}")
+
+
+#Below is best for concatenation
+print(f"Welcome to {phrase} we teach everything on {day}")
 
 print ("Giraffe Academy")
 
